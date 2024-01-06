@@ -1,0 +1,4 @@
+{
+  // "extends": "next/core-web-vitals" // materi 6 // local-server to cloud
+  "extends": ["next","plugin:react/recommended"]
+}
