@@ -1,7 +1,10 @@
 {
   // materi 6 // local-server
-  "extends": "next/core-web-vitals" 
+  // "extends": "next/core-web-vitals" 
 
-  // materi 6 // cloud server
+  // materi 6 // cloud server by official
+  "extends": "next"
+
+  // materi 6 // cloud server by stackoverflow
   // "extends": ["next","plugin:react/recommended"]
 }
