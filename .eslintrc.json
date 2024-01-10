@@ -3,5 +3,5 @@
   // "extends": "next/core-web-vitals" 
 
   // materi 6 // cloud server
-  "extends": ["next","plugin:react/recommended"]
+  "extends": "next"
 }
